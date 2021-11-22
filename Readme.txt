@@ -1,0 +1,1 @@
+Веса модели news.h5 находятся по ссылке https://cloud.mail.ru/public/WDoC/nG7YrBi87
